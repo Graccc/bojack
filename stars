@@ -3,3 +3,12 @@ if(a%2==0):
 print("even")
 else:
 print("odd")
+
+#graceprogram
+a=input("enter a number:")
+def square(x)
+ return x*x
+def cube(x)
+ return x*x*x
+print("square="+square(a))
+print("cube="+cube(a))
